@@ -9,6 +9,7 @@ namespace WebApplicationBasic
 {
     public class Program
     {
+        // comment to test github
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
